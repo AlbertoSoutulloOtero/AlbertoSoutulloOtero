@@ -35,12 +35,13 @@ I am currently expanding my technical horizons in:
 
 ---
 
-### 📊 GitHub Stats
-Here is a quick overview of my recent activity and most used languages:
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlbertoSoutulloOtero&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoutulloOtero&layout=compact&theme=dracula&hide_border=true" />
+### 🛠️ Core Competencies & Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean_Code-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Agile%2FScrum-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-Single_Page_Apps-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Rest_APIs-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD_Basics-lightgrey?style=flat-square" />
 </p>
 
 ---

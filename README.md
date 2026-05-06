@@ -37,11 +37,10 @@ I am currently expanding my technical horizons in:
 
 ### 🛠️ Core Competencies & Architecture
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Agile%2FScrum-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-Single_Page_Apps-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Rest_APIs-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD_Basics-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Development-Independent_&_Self--Managed-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Modular_%26_Scalable-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD_via_Vercel-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow-Git_Flow-lightgrey?style=flat-square" />
 </p>
 
 ---

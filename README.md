@@ -39,8 +39,8 @@ I am currently expanding my technical horizons in:
 Here is a quick overview of my recent activity and most used languages:
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlbertoSoutulloOtero&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSoutulloOtero&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -48,10 +48,10 @@ Here is a quick overview of my recent activity and most used languages:
 ### 📫 Connect with me
 I love connecting with other developers and collaborating on interesting projects!
 
-- 💼 **LinkedIn**: [Link to your profile]
-- 🌐 **Portfolio**: [Link to your website if applicable]
-- 📧 **Email**: [Your professional email]
+- 💼 **LinkedIn**: www.linkedin.com/in/albertosoutullootero
+- 🌐 **Portfolio**: www.albertosoutullootero.dev
+- 📧 **Email**: albertosoutullootero@gmail.com
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=AlbertoSoutulloOtero&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </p>
